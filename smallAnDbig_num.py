@@ -14,5 +14,6 @@ for num2 in n[1:]:
     if num2 > biggest_number:
         biggest_number = num2
 
+
 print(f"Smallest number = {smallest_number}\n"
       f"Biggest number = {biggest_number}")
