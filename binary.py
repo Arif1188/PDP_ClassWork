@@ -5,5 +5,6 @@ def binary(array,number):
         if array[i] == number:
             return i
     
-bn = binary(llist,5)        
+bn = binary(llist,5)  
+
 print(bn)
